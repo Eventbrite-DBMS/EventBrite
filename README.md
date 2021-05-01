@@ -5,7 +5,7 @@ analyze the Eventbrite Analytics (Dataset) and retrieving various  informations 
 ( **** Writing of simple sql queries to the complex ones using  joins , subquries etc ****) 
 
 
-# Importing Dataset :
+# Files Summary :
 
 Download the above EventBrite (zip file) and follow the procedures as bellow 👎
 1. File named dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.
