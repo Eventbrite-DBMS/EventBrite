@@ -8,10 +8,10 @@ analyze the Eventbrite Analytics (Dataset) and retrieving various  informations 
 # Importing Dataset :
 
 Download the above EventBrite (zip file) and follow the procedures as bellow 👎
-1. File dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.
-2. File queries.txt includes the queries for all the 
-3. Folder outputs contain all the outputs of the queries that are mentioned in the above file named  queries.txt.
-4. File ER DIAGRAM contains the Entity Relationship Diagram  for the above  EventBrite database.
+1. File named dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.
+2. File named queries.txt includes the queries for all the 
+3. Folder named outputs contain all the outputs of the queries that are mentioned in the above file named  queries.txt.
+4. File named ER DIAGRAM contains the Entity Relationship Diagram  for the above  EventBrite database.
 
 # Various Questions to retrive data  from the above database ::
 
