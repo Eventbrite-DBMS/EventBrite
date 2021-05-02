@@ -15,7 +15,8 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 
 # Various Questions to retrive data  from the above database ::
 
-
+1. Count the number of  Attendee's  Emails for each attendee's arrival status .
+2. 
 
 
 
