@@ -13,7 +13,7 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 3. Folder named outputs contain all the outputs of the queries that are mentioned in the above file named  queries.txt.
 4. File named ER DIAGRAM.png contains the Entity Relationship Diagram  for the above  EventBrite database. ( For drawing ER Diagram use online tools like SQLDBM , dbdiagram.io etc)
 
-# Various Questions to retrive data  from the above database ::
+# Various Questions to retreive data  from the above database ::
 
 1. Count the number of  Attendee's  Emails for each attendee's arrival status .
 2. 
