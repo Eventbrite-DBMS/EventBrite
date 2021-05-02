@@ -16,9 +16,16 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ğŸ‘
 # Various Questions to retreive data  from the above database ::
 
 1. Count the number of  Attendee's  Emails for each attendee's arrival status .
-2. 
-
-
+2. List the names, email, company of the male attendees in which the sponsor company is Freutz or Bolton .
+3. Display bottom  five creator's name when Event_ID is arranged in serial wise from smaller to larger.
+4. Show the percentage of orders placed in the event .
+5. Find the average of the events by Status in ascending order.
+6. List down the number of changed for each  individual Organizers .
+7. Display the category of ticket reservations and find the median of quantity of ticket sold in each category of tickets.
+8. Show the names of attendees , gender , ticket category and quantity of ticket sold whose category belongs to RSVP or EarlyBird. 
+9. Find the customer and status of order placed for which the venue_ID > 425994 .
+10.List the names of attendees and the status of tickets for the event organized by Southern Entertainment .     
+11. 
 
 
 
