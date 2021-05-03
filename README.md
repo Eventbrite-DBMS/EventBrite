@@ -8,7 +8,7 @@ analyze the Eventbrite Analytics (Dataset) and retrieving various  informations 
 # Files Summary :
 
 Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘Ž
-1. File named dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.)
+1. File named Dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.)
 2. File named Queries.sql includes the queries for all the varous questions stated below . 
 3. Folder named outputs contain all the outputs of the queries that are mentioned in the above file named  Queries.sql .
 4. File named ER DIAGRAM.png contains the Entity Relationship Diagram  for the above  EventBrite database. 
@@ -44,7 +44,7 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 3. Start your XAMPP Control Panel and start 'Apache' and 'MySql' servers there.
 4. Open your browser and type 'localhost/' or '127.0.0.1/' , then from there go to phpmyadmin.
 5. Create a database named:'EventBrite'  or you can even name it as of your choice in phpmyadmin.
-6. Import the dataset.sql file which is in the sql directory.
+6. Import the Dataset.sql file which is in the sql directory.
 7. Congratulations! you are good to go  ....... Try retrieving various informations from the dataset and Explore new advanced queries... ^-^
 
 ## Thank you 
