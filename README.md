@@ -8,11 +8,11 @@ analyze the Eventbrite Analytics (Dataset) and retrieving various  informations 
 # Files Summary :
 
 Download the above EventBrite (zip file) and follow the procedures as bellow 👎
-1. File named dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.
-2. File named queries.txt includes the queries for all the 
-3. Folder named outputs contain all the outputs of the queries that are mentioned in the above file named  queries.txt.
+1. File named dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.)
+2. File named Queries.sql includes the queries for all the varous questions stated below . 
+3. Folder named outputs contain all the outputs of the queries that are mentioned in the above file named  Queries.sql .
 4. File named ER DIAGRAM.png contains the Entity Relationship Diagram  for the above  EventBrite database. 
-5. 
+ 
 # Various Questions to retreive data  from the above database ::
 
 ##  1.  Count the number of  Attendee's  Emails for each attendee's arrival status .
