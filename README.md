@@ -45,7 +45,7 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 4. Open your browser and type 'localhost/' or '127.0.0.1/' , then from there go to phpmyadmin.
 5. Create a database named:'EventBrite'  or you can even name it as of your choice in phpmyadmin.
 6. Import the Dataset.sql file which is in the sql directory.
-7. Congratulations! you are good to go  ....... Try retrieving various informations from the dataset and Explore new advanced queries.. ^-^
+7. Congratulations! you are good to go  ....... Try retrieving various informations from the dataset and Explore new advanced queries... ^-^
 
 ## Thank you 
 
