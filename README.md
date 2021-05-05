@@ -2,7 +2,7 @@
 
 Eventbrite is an American event management and ticketing website. The service allows users to browse, create, and promote local events.Therfore the task is to 
 analyze the Eventbrite Analytics (Dataset) and retrieving various  informations from it using sql queries.
-( **** Writing of simple sql queries using "having clause , group by , where , all, union etc " to the complex ones " using joins,inner joins , subquries etc " ****) 
+( **** Writing of simple sql queries using "having clause , group by , where , all, union etc " to the complex ones " using joins and its types , self joins , subqueries etc " ****) 
 
 
 # Files Summary :
