@@ -137,6 +137,35 @@ Q20:  SELECT Event_ID
       FROM orders 
       WHERE Changed <='06-02-2020 15:00' 
       ORDER BY Event_ID ;
+       
+       
+       
+Q21:  SELECT a.Name,a.City 
+      from venues a 
+      JOIN venues b on(a.Venue_ID = b.Venue_ID)
+      WHERE a.State = 'TX' or b.State = 'VIC';
+       
+       
+       
+       
+Q22:  SELECT v.City,v.State,eventa.Organizer,eventb.Event
+      from venues v 
+      JOIN venues q on(v.Venue_ID = q.Venue_ID) 
+      JOIN events eventa on (v.Venue_ID = eventa.Venue_ID)
+      JOIN events eventb on (q.Venue_ID = eventb.Venue_ID) 
+      WHERE eventa.Status = 'live' and eventb.Status = 'completed';
+       
+       
+       
+Q23:   SELECT DISTINCT a.Name, b.Email, a.Company
+       FROM attendees a 
+       JOIN ticket_classes t1 ON (a.Ticket_Class_ID = t1.Ticket_Class_ID) 
+       JOIN ticket_classes t2 ON ( t1.Name= t2.Name AND t1.Quantity = t2.Quantity) 
+       JOIN ticket_classes t3 ON (t2.Name = t3.Name AND t2.Event_ID = t3.Event_ID) 
+       JOIN ticket_classes t4 ON (t3.Quantity = t4.Quantity AND t3.Organiser_Fee = t4.Organiser_Fee) 
+       JOIN attendees b ON (t4.Ticket_Class_ID = b.Ticket_Class_ID)
+       WHERE a.Status = 'Checked in' AND b.Status = 'not attending';
+
 
 
 
