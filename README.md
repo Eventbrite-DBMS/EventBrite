@@ -34,7 +34,10 @@ Download the above EventBrite (zip file) and follow the procedures as bellow �
 ##  17. List down the Email,Company,Order_ID and Names of Female attendees whose ticket class is “General Admission” and are watching live event in “US”.
 ##  18. Display the  venue's name and localized address for the event where event changed in between "12-04-2019" to "16-12-2019".
 ##  19. Find the event's name, creator's name , organizer's name for which the status is 'LIVE' and the attendees count is less than or equal to 10 .
-##  20. Return the event_ID from both events and orders where event changed is less than or equal to '06-02-2020 15:00'. 
+##  20. Return the event_ID from both events and orders where event changed is less than or equal to '06-02-2020 15:00'.
+##  21. Display the venue's name and the city where the event is organized in the state 'TX' or 'VIC'.
+##  22. Find the event's name and its organizer and also find the city and the state where the event is held whose event's status is 'completed' or 'live'.
+##  23. Name the attendees and display their email and the company they belong where the status of the attendees is both 'not attending' and 'Checked in'.
 
 
 # Instructions to run  the above SQL queries :
