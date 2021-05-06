@@ -165,6 +165,20 @@ Q23:   SELECT DISTINCT a.Name, b.Email, a.Company
        JOIN ticket_classes t4 ON (t3.Quantity = t4.Quantity AND t3.Organiser_Fee = t4.Organiser_Fee) 
        JOIN attendees b ON (t4.Ticket_Class_ID = b.Ticket_Class_ID)
        WHERE a.Status = 'Checked in' AND b.Status = 'not attending';
+       
+       
+       
+       
+Q24:    DECLARE
+        NAME1 varchar(26);
+        CITY1 varchar(15);
+        BEGIN
+        SELECT Name into NAME1 from venues where Venue_ID = '10270333';
+        DBMS_OUTPUT.PUT_LINE('Name '|| NAME1);
+        SELECT City into CITY1 from venues where Venue_ID = '10270333';
+        DBMS_OUTPUT.PUT_LINE('City '|| CITY1);
+        END;
+         /
 
 
 
