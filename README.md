@@ -10,7 +10,7 @@ analyze the Eventbrite Analytics (Dataset) and retrieving various  informations 
 Download the above EventBrite (zip file) and follow the procedures as bellow 👎
 1. File named Dataset.sql contains the complete script for your database.( Includes : all CREATE AND INSERT Queries for all the tables of the database.)
 2. File named Queries.sql includes the queries for all the varous questions stated below . 
-3. File named output.docx contain all the outputs of the queries that are mentioned in the above file named  Queries.sql .
+3. File named Outputs.docx contain all the outputs of the queries that are mentioned in the above file named  Queries.sql .
 4. File named ER DIAGRAM.png contains the Entity Relationship Diagram  for the above  EventBrite database. 
  
 # Various Questions to retreive data  from the above database ::
