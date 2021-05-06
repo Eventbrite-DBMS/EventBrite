@@ -2,7 +2,7 @@
 
 Eventbrite is an American event management and ticketing website. The service allows users to browse, create, and promote local events.Therfore the task is to 
 analyze the Eventbrite Analytics (Dataset) and retrieving various  informations from it using sql queries.
-( **** Writing of simple sql queries using "having clause , group by , where , all, union etc " to the complex ones " using joins and its types , self joins , subqueries etc " ****) 
+( **** Writing of simple sql queries using "having clause , group by , where , all, union etc " to the complex ones " using joins and its types , self joins , subqueries, PLSQL etc " ****) 
 
 
 # Files Summary :
@@ -38,9 +38,10 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 ##  21. Display the venue's name and the city where the event is organized in the state 'TX' or 'VIC'.
 ##  22. Find the event's name and its organizer and also find the city and the state where the event is held whose event's status is 'completed' or 'live'.
 ##  23. Name the attendees and display their email and the company they belong where the status of the attendees is both 'not attending' and 'Checked in'.
+##  24. Display the city and the venue for the event where the Venue_ID is '10270333'. - (Implementation of PLSQL) .
 
 
-# Instructions to run  the above SQL queries :
+# Instructions to run  the above SQL queries and PLSQL query :
 
 1. Install XAMPP server on your system to be used as local server for project. (lets say you installed it in 'K:\xampp_folder' folder)
 2. Download the zip file and unzip on any of the drive . 
@@ -49,6 +50,8 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 5. Create a database named:'EventBrite'  or you can even name it as of your choice in phpmyadmin.
 6. Import the Dataset.sql file which is in the sql directory.
 7. Congratulations! you are good to go  ....... Try retrieving various informations from the dataset and Explore new advanced queries.... ^-^
+8. To implemet plsql query install sqlplus and then run plsql queries through the sql command prompt.
+9. First import your sql tables and then then type set serveroutput on and write the plsql code and the ouput is displayed for the above PLSQL query.
 
 ## Thank you 
 
