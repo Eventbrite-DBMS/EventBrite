@@ -51,7 +51,7 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 6. Import the Dataset.sql file which is in the sql directory.
 7. Congratulations! you are good to go  ....... Try retrieving various informations from the dataset and Explore new advanced queries.... ^-^
 8. To implemet plsql query install sqlplus and then run plsql queries through the sql command prompt.
-9. First import your sql tables and then then type set serveroutput on and write the plsql code and the ouput is displayed for the above PLSQL query.
+9. First import the sql tables and then  type set serveroutput on and write the plsql code and the ouput is displayed for the above PLSQL query.
 
 ## Thank you 
 
