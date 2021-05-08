@@ -12,6 +12,13 @@ Download the above EventBrite (zip file) and follow the procedures as bellow ðŸ‘
 2. File named Queries.sql includes the queries for all the varous questions stated below . 
 3. File named Outputs.docx contain all the outputs of the queries that are mentioned in the above file named  Queries.sql .
 4. File named ER DIAGRAM.png contains the Entity Relationship Diagram  for the above  EventBrite database. 
+
+#Requirements:
+1.Xampp server 
+2.phpMyAdmin SQL Dump
+    version 5.0.4
+-- Server version: 10.4.17-MariaDB
+-- PHP Version: 8.0.1
  
 # Various Questions to retreive data  from the above database ::
 
